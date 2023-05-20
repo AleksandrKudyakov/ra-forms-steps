@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/3vfw75gqjw0ua379/branch/main?svg=true)](https://ci.appveyor.com/project/AleksandrKudyakov/ra-forms-steps/branch/main)
